@@ -1,0 +1,1 @@
+echo "puppet_utils::echo: " $PT_message
