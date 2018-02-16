@@ -26,11 +26,11 @@ After installation, all functions, tasks and plans become available.
 
 ### Tasks
 
-* puppet_utils::echo
+#### puppet_utils::echo
 
 Echoes its parameter `message`
 
-* puppet_utils::random
+#### puppet_utils::random
 
 Returns $RANDOM - a number between 0 and 32767
 
